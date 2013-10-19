@@ -1,3 +1,0 @@
-add_lunch_combo full_xt1060-userdebug
-add_lunch_combo cm_xt1060-userdebug
-
